@@ -6,7 +6,7 @@ function PodcastControls() {
   return (
     <div className="podcast-controls">
       <ReactAudioPlayer
-        className="player"
+        src="https://d3ctxlq1ktw2nl.cloudfront.net/staging/2019-5-4/16399851-44100-2-b1035cac4fd87.m4a"
         controls
         style={{ width: "20vw", outline: "none" }}
       />
