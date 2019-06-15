@@ -1,0 +1,12 @@
+.podcast-metadata {
+    text-align: center;
+}
+
+.podcast-metadata p {
+    font-size: 24px;
+}
+
+.podcast-metadata img {
+    width: 20vw;
+    border-radius: 4px;
+}
