@@ -1,7 +1,7 @@
 import React from "react";
 import "./PodcastMetadata.css";
 
-import PodcastLogo from "../../assets/images/podcast-logo.png";
+import PodcastLogo from "../../assets/images/podcast-logo.jpg";
 
 function PodcastMetadata() {
   return (
